@@ -2,7 +2,7 @@
 
 [**English**](README.md) · [Português (Brasil)](README.pt-BR.md)
 
-I work with data and use SQL and Python to turn questions into reproducible analyses. My public projects cover product metrics, cohort analysis and machine learning.
+I work with data
 
 ## Featured data projects
 
