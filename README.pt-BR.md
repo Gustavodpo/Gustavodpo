@@ -2,7 +2,6 @@
 
 [English](README.md) · [**Português (Brasil)**](README.pt-BR.md)
 
-Trabalho com dados e uso SQL e Python para transformar perguntas em análises reproduzíveis. Meus projetos públicos incluem métricas de produto, análise de coortes e aprendizado de máquina.
 
 ## Projetos de dados em destaque
 
